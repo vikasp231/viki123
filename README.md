@@ -2,4 +2,4 @@
 test repositoty
 this is just testing how github works.
 frist we create github account 
-then we create the file
+then we create the branch
